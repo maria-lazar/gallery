@@ -1,4 +1,4 @@
-import artworks from '../../../data.json'
+import artworks from '../../data.json'
 
 export interface Artwork {
     id: number;
