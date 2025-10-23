@@ -1,0 +1,70 @@
+[{
+	"id": 1,
+	"name": "Whispers of Dawn",
+	"author": "Elena Morrelli",
+	"description": "Soft hues of pink and gold capturing the fragile silence just before sunrise.",
+	"imageUrl": "/images/image1.jpeg"
+},
+{
+	"id": 2,
+	"name": "The Silent Horizon",
+	"author": "Kenji Sato",
+	"description": "A vast seascape where sky and water dissolve into one endless line.",
+	"imageUrl": "/images/image2.jpeg"
+},
+{
+	"id": 3,
+	"name": "Fragments of Memory",
+	"author": "Amira Khalid",
+	"description": "Abstract shapes and muted tones evoking the way memories blur and overlap.",
+	"imageUrl": "/images/image3.jpeg"
+},
+{
+	"id": 4,
+	"name": "Velvet Storm",
+	"author": "Victor Hansen",
+	"description": "Deep indigos and purples swirling together, like a tempest wrapped in luxury.",
+	"imageUrl": "/images/image4.jpeg"
+},
+{
+	"id": 5,
+	"name": "Echoes in Blue",
+	"author": "Sofia Delgado",
+	"description": "A study in layered blues, where color feels like sound reverberating through space.",
+	"imageUrl": "/images/image5.jpeg"
+},
+{
+	"id": 6,
+	"name": "Shadows of Serenity",
+	"author": "Jonas Eberhardt",
+	"description": "Tranquil greens and grays, with delicate light filtering through still trees.",
+	"imageUrl": "/images/image6.jpeg"
+},
+{
+	"id": 7,
+	"name": "The Garden of Forgotten Dreams",
+	"author": "Nadia Petrescu",
+	"description": "Surreal blossoms and winding paths suggesting a place both inviting and lost.",
+	"imageUrl": "/images/image7.jpeg"
+},
+{
+	"id": 8,
+	"name": "Amber Stillness",
+	"author": "Louis Carriere",
+	"description": "Golden light captured in a frozen moment, like dusk preserved in glass.",
+	"imageUrl": "/images/image8.jpeg"
+},
+{
+	"id": 9,
+	"name": "When the Sky Breathed",
+	"author": "Aisha Rahman",
+	"description": "Dramatic brushstrokes of clouds unfolding as if the heavens themselves exhaled.",
+	"imageUrl": "/images/image9.jpeg"
+},
+{
+	"id": 10,
+	"name": "Ephemeral Light",
+	"author": "Matteo Rinaldi",
+	"description": "A fleeting glow illuminating the canvas, celebrating beauty that vanishes in an instant.",
+	"imageUrl": "/images/image10.jpeg"
+}]
